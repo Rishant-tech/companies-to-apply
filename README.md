@@ -81,6 +81,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 12.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 13.  [Browser stack](https://www.browserstack.com/careers)  
 14.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+15.  [Brevo](https://www.brevo.com/careers/open-positions/)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
